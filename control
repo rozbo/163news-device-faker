@@ -1,0 +1,9 @@
+Package: com.zz173.ntesnb
+Name: ntesnb
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 黄易新闻伪装8848手机
+Maintainer: rozbo
+Author: rozbo
+Section: Tweaks
